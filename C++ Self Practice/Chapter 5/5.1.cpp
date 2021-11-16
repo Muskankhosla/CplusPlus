@@ -45,3 +45,19 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
+
+muskan
+savings
+12345
+20000
+2000
+balance money after deposit :22000
+22000
+Insufficient Balance
