@@ -9,7 +9,7 @@ class circle{
    }
     int area()
     { int a;
-     return  a=radius*radius;
+     return  a=3.14*radius*radius;
     }
     void disp(){
         cout<<area();
